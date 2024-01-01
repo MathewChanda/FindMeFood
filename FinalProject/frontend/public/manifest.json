@@ -1,0 +1,15 @@
+{
+  "short_name": "FindMeFood",
+  "name": "FindMeFood",
+  "icons": [
+    {
+      "src": "restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

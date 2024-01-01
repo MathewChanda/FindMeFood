@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+}
+#rootDiv {
+    height:100vh;
+    background-color: white;
+}
+
+#container {
+    background-color: white;
+    border-radius: 10px;
+}
